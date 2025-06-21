@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/login/static/css/main.5ae197f4.css",
-    "main.js": "/login/static/js/main.6243ba12.js",
-    "static/media/books.jpg": "/login/static/media/books.0ac9675ce8574ee50542.jpg",
-    "index.html": "/login/index.html",
-    "main.5ae197f4.css.map": "/login/static/css/main.5ae197f4.css.map",
-    "main.6243ba12.js.map": "/login/static/js/main.6243ba12.js.map"
+    "main.css": "/AlexStan141/school_app/static/css/main.82b3d858.css",
+    "main.js": "/AlexStan141/school_app/static/js/main.6243ba12.js",
+    "static/media/books.jpg": "/AlexStan141/school_app/static/media/books.0ac9675ce8574ee50542.jpg",
+    "index.html": "/AlexStan141/school_app/index.html",
+    "main.82b3d858.css.map": "/AlexStan141/school_app/static/css/main.82b3d858.css.map",
+    "main.6243ba12.js.map": "/AlexStan141/school_app/static/js/main.6243ba12.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ae197f4.css",
+    "static/css/main.82b3d858.css",
     "static/js/main.6243ba12.js"
   ]
 }
