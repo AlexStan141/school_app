@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/AlexStan141/school_app/client",
+  "homepage": "https://AlexStan141.github.com/school_app/client",
   "proxy": "http://localhost:3000",
   "name": "client",
   "version": "0.1.0",
